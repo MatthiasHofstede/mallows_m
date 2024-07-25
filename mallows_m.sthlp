@@ -151,7 +151,7 @@ Only {cmd:iweight}s are allowed; see {help weight}. More information on how weig
 {synopt:{cmd:e(residuals)}}the residuals of the estimation{p_end}
 {synopt:{cmd:e(chef)}}coefficients of the Mallows M estimator{p_end}
 
-title:Authors}
+{title:Authors}
 
 {pstd}
     Matthias Hofstede (Erasmus University Rotterdam),
