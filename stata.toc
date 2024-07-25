@@ -1,0 +1,2 @@
+v 3
+p mallows_m module to run robust regression using M estimation of Mallows type
