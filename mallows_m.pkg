@@ -1,0 +1,8 @@
+v 3
+d mallows_m: module to fit a linear model by robust regression using a M estimator of Mallows type.
+d 
+d Author: Matthias Hofstede, hofstede@ese.eur.nl
+d
+d Distribution-Date: 20240725
+f mallows_m.ado
+f mallows_m.sthlp
