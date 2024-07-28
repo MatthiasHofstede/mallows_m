@@ -149,7 +149,7 @@ Only {cmd:iweight}s are allowed; see {help weight}. More information on how weig
 {p2col 7 20 24 2: Matrices}{p_end}
 {synopt:{cmd:e(fitted)}}the fitted values of the estimation{p_end}
 {synopt:{cmd:e(residuals)}}the residuals of the estimation{p_end}
-{synopt:{cmd:e(chef)}}coefficients of the Mallows M estimator{p_end}
+{synopt:{cmd:e(coef)}}coefficients of the Mallows M estimator{p_end}
 
 {title:Authors}
 
