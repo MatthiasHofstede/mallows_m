@@ -1,4 +1,3 @@
-//translation of R MASS::rlm package
 version 17     			// version #.# fixes the version of Stata
 
 program define mallows_m, eclass
